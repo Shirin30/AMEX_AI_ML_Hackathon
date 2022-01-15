@@ -1,1 +1,1 @@
-# AMEX_AI_ML_Haxkathon
+# AMEX_AI_ML_Hackathon
